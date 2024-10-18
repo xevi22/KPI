@@ -1,0 +1,138 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    margin-top: 150px;
+}
+
+a{
+    font-size: 20px !important;
+}
+header {
+    background: #2c3e50;
+    padding: 0px 20px;
+    height:105px;   
+    align-content: center; 
+}
+.diver{
+    width: 75%;
+    display: flex;
+    margin: 50px auto;
+}
+video{
+    width: 100%;
+    height: 398px;
+    position: absolute;
+    object-fit: cover;
+    z-index: 0;
+    border-radius: 10px;
+}
+h2 {
+    color: #ffffff !important;
+    text-align: center;
+    margin-top: 18% !important;
+    position: absolute;
+    text-shadow: 1px 1px #000000;
+}
+
+.divertop{
+    position: relative;
+    width: 75%;
+    height: 400px;
+    margin: 50px auto;
+  
+}
+
+.divheader{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+ul{
+    margin-top: 9px !important;
+}
+.cen{
+    margin: auto auto
+}
+.logo {
+    width: 100px; /* Ajusta el tamaño según lo necesites */
+}
+.plletra{
+    display: flex;
+    align-items: center;
+    height: 40%;
+    margin-top: 20px;
+    margin-left:5px;
+    margin-right: 5px;
+}
+
+.navbar-toggle{
+    border: 1.5px solid black !important;
+    background-image:url('../img/ordenar.png')!important;
+    background-size:cover !important;
+    
+}
+nav {
+    width: 50%;
+    text-align: right;
+    margin-right: 60px;
+}   
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#hero {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+    background: #ecf0f1;
+    border: 1px solid #bdc3c7;
+}
+a{
+    color: white !important;
+}
+section {
+    padding: 20px;
+    margin: 10px;
+    background: #ffffff;
+    border: 2px solid #bdc3c7;
+    border-radius: 5px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 15px 0;
+    background: #2c3e50;
+    color: #fff;
+    position: absolute;
+    
+    width: 100%;
+}
+
+.card {
+    width: 215px;
+    height: 300px;
+    border-radius: 30px;
+    background: #e0e0e0;
+    box-shadow: 15px 15px 30px #bebebe,-15px -15px 30px #ffffff;
+  }
+  .imgpintar{
+        width:40%;
+        display: flex; margin: auto;
+        background: #e0e0e0;
+  }
+  .croax{
+    width: 500px;
+  }
